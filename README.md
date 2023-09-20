@@ -1,6 +1,6 @@
 # UserTracker
 
-Welcome to UserTrackr, an intuitive user data-tracking application developed using a blend of Java, JavaScript, Spring Boot, PostgreSQL, and more. This project is designed to provide a seamless and intuitive experience, integrating various components of RESTful app implementation.
+Welcome to UserTracker, an intuitive user data-tracking application developed using a blend of Java, JavaScript, Spring Boot, PostgreSQL, and more. This project is designed to provide a seamless and intuitive experience, integrating various components of RESTful app implementation.
 
 ## Components
 
