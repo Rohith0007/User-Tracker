@@ -1,16 +1,16 @@
-# UserTrackr
+# UserTracker
 
-Welcome to UserTrackr, an intuitive user data tracking application developed using a blend of Java, JavaScript, Spring Boot, PostgreSQL, and more. This project is designed to provide a seamless and intuitive experience, integrating various components of RESTful app implementation.
+Welcome to UserTrackr, an intuitive user data-tracking application developed using a blend of Java, JavaScript, Spring Boot, PostgreSQL, and more. This project is designed to provide a seamless and intuitive experience, integrating various components of RESTful app implementation.
 
 ## Components
 
 This repository encompasses two vital parts:
-- **"user-tracker-frontend"**: The frontend, built using React framework.
-- **"user-tracker-backend"**: The backend, crafted with Java, SpringBoot and ProgresSQL.
+- **"user-tracker-frontend"**: The frontend, built using the React framework.
+- **"user-tracker-backend"**: The backend, crafted with Java, SpringBoot, and ProgresSQL.
 
 ## User Interaction
 
-A user interacts with the application by initiating the **ADD USER** action, creating a new user record. Upon completing the form and pressing **ADD**, the data is sent to the backend for processing. Simultaneously, the user is redirected to the main page where the new user entry is showcased.
+A user interacts with the application by initiating the **ADD USER** action, creating a new user record. The data is sent to the backend for processing after completing the form and pressing **ADD**. Simultaneously, the user is redirected to the main page where the new user entry is showcased.
 
 Users can view each user's details, including their name, email, and password. They can interact using the following buttons:
 
@@ -20,4 +20,4 @@ Users can view each user's details, including their name, email, and password. T
 
 ## Data Flow
 
-The user's inputted data moves through the API service and into the database, where it is stored in the **"users"** datatable. When requested, this data is transmitted back to the WebApp through the server, ultimately being displayed on the application's homepage. All data is transmitted and received in JSON format.
+The user's inputted data moves through the API service and into the database, which is stored in the **"users"** data table. When requested, this data is transmitted back to the WebApp through the server, ultimately being displayed on the application's homepage. All data is shared and received in JSON format.
